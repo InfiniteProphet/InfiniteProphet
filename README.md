@@ -1,6 +1,5 @@
 <h1 align="center">Hi there!, I'm Mrityunjay Chaudhary 👋</h1>
 
----
 
 ## 👨‍💻 About Me
 
